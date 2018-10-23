@@ -1,4 +1,4 @@
-# Extracting module membership from the computeModules function of the package bipartite
+# Extracting module membership from the computeModules function of the package bipartite for R
 
 Ecological Synthesis Lab (SintECO): https://marcomellolab.wordpress.com
 
@@ -6,7 +6,7 @@ Author: Gabriel M. Felix.
 
 E-mail: gabriel.felixf@hotmail.com.  
 
-How to cite: Felix GM. 2018. Extracting module membership from the computeModules function of the package bipartite. Ecological Synthesis Lab of the University of São Paulo, Brazil.
+How to cite: Felix GM. 2018. Extracting module membership from the computeModules function of the package bipartite for R. Ecological Synthesis Lab of the University of São Paulo, Brazil.
 
 This script was first used in the following preprint: Felix et al. 2017, bioRvix (see "Suggested readings").
 
