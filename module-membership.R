@@ -5,10 +5,10 @@
 ##################################################
 
 ##### Ecological Synthesis Lab (SintECO): https://marcomellolab.wordpress.com
-##### Author: Gabriel M. Felix.
+##### Author: Gabriel Felix & Marco Mello
 ##### E-mail: gabriel.felixf@hotmail.com.  
-##### How to cite: Felix GM. 2018. Extracting module membership from the computeModules function of the package bipartite. Ecological Synthesis Lab of the University of São Paulo, Brazil.
-##### This script was first used in the following preprint: Felix et al. 2017, bioRvix (see "Suggested readings").
+##### How to cite: Felix GM & Mello MAR. 2018. Extracting module membership from the computeModules function of the package bipartite. Ecological Synthesis Lab of the University of São Paulo, Brazil.
+##### This script was first used in the following preprint: Felix et al. 2017, bioRvix: https://doi.org/10.1101/236687.
 ##### Published on October 23rd, 2018 (English version).
 ##### Run in R 3.5.1 (2017-07-02) -- "Feather Spray"
 
