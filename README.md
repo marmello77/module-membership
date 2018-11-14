@@ -2,7 +2,7 @@
 
 Ecological Synthesis Lab (SintECO): https://marcomellolab.wordpress.com
 
-Author: Gabriel M. Felix & Marco Mello.
+Author: Gabriel Felix & Marco Mello.
 
 E-mail: gabriel.felixf@hotmail.com.  
 
